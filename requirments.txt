@@ -1,0 +1,6 @@
+windows-curses
+pyfiglet==1.0.2
+termcolor==1.0.2
+re
+os
+term-image==0.7.2
